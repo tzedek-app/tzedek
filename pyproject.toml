@@ -14,7 +14,7 @@ aiohttp = "^3.11.18"
 aiogram = "^3.17.0"
 
 [tool.poetry.group.web.dependencies]
-django = "^5.2.1"
+django = "^5.2.11"
 djangorestframework = "^3.15.2"
 psycopg2-binary = "^2.9.10"
 django-debug-toolbar = "^5.1.0"
